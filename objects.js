@@ -1,1 +1,2 @@
-var playlist = {hello: "song1", there: "song2"}
+var playlist = {hello: "song1", there: "song2"};
+playlist[art] = 'song3'
