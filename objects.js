@@ -1,2 +1,5 @@
 var playlist = {hello: "song1", there: "song2"};
-playlist[art] = 'song3';
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist[artistName] = songTitle
+}
