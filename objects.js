@@ -1,1 +1,1 @@
-var playlist = {artistName: songTitle}
+var playlist = {hello: "song1", there: "song2"}
